@@ -109,10 +109,10 @@ Traffic_Flow_Optimization/
 ---
 
 ## 👨‍💻 Author
-**Gaurav**
+**Ichcha**
 *   B.Tech (3rd Year)
-*   [GitHub Profile](https://github.com/Gaurav-Chaudhary04)
-*   [LinkedIn](https://www.linkedin.com/in/gaurav-chaudhary-profile/)
+*   [GitHub Profile](https://github.com/ichcha03)
+*   [LinkedIn](https://www.linkedin.com/in/ichcha-mehrishi-344478289/)
 
 ---
 *Built with ❤️ for the Future of Smart Mobility.*
