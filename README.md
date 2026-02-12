@@ -55,7 +55,7 @@ This ensures that the signal cycle expands during peak hours to clear queues and
 ### Steps
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Gaurav-Chaudhary04/Traffic_Flow_Optimization.git
+    git clone https://github.com/ichcha03/Traffic_Managementz_Optimization.git
     cd Traffic_Flow_Optimization
     ```
 
