@@ -1,0 +1,6 @@
+# Large dataset/environment folder
+Traffic/
+
+# Python bytecode cache
+__pycache__/
+
